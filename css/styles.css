@@ -1,0 +1,94 @@
+body {
+	background-color: #a6a6a6;
+  color: black;
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-header {
+  width:600px !important;
+}
+
+.navbar-brand> img {
+  	height: 100%;
+  	padding: 15px;
+  	width: auto;
+}
+.navbar-inverse {
+	background-color: #a6a6a6;
+}
+
+.navbar-brand {
+  height: 90px;
+}
+
+.nav > li > a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 18px;
+  text-align: center;
+  color: #337ab7 !important;
+}
+.thumbnail {
+  border: 0px; 
+}
+
+.nav > li > a > span {
+	font-family: serif;
+  margin-left: 5px;
+  color: white;
+  font-size: 20px;
+}
+
+.navbar-toggle {
+  padding: 10px;
+  margin: 25px 15px 25px 0;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+  color: red;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+  color: red;
+ }
+
+.navbar-inverse .navbar-toggle .icon-bar {
+  background-color: white;
+}
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+  background-color: #337ab7;
+}
+
+ nav .container {
+    background-color: black ;
+    border-radius: 10px;
+    color: white;
+ }
+
+ .navbar-static-top {
+  border-width: 0 0 0;
+ }
+
+footer {
+  background-color: black;
+  color: white ;
+}
+
+footer ul {
+   list-style: none;
+}
+
+footer ul.yararliLinkler {
+   columns: 2;
+}
+
+footer ul > li > a > span {
+  font-size: 30px;
+}
+
+.media {
+    padding: 10px;  
+}

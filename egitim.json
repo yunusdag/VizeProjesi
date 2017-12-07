@@ -1,0 +1,757 @@
+{
+	"Lisans": {
+
+		"Bahar": {
+		"1": {
+			"08:30-09:15": {
+
+				"Pazartesi": "LB1",
+				"Salı": "LB1",
+				"Çarşamba": "LB1",
+				"Perşembe": "LB1",
+				"Cuma": "LB1"
+			},
+			"09:30-10:15": {
+
+				"Pazartesi": "LB1",
+				"Salı": "LB1",
+				"Çarşamba": "LB1",
+				"Perşembe": "LB1",
+				"Cuma": "LB1"
+			},
+			"10:30-11:15": {
+
+				"Pazartesi": "LB1",
+				"Salı": "LB1",
+				"Çarşamba": "LB1",
+				"Perşembe": "LB1",
+				"Cuma": "LB1"
+			},
+			"11:30-12:15": {
+
+				"Pazartesi": "LB1",
+				"Salı": "LB1",
+				"Çarşamba": "LB1",
+				"Perşembe": "LB1",
+				"Cuma": "LB1"
+			},
+			"13:15-14:00": {
+
+				"Pazartesi": "LB1",
+				"Salı": "LB1",
+				"Çarşamba": "LB1",
+				"Perşembe": "LB1",
+				"Cuma": "LB1"
+			},
+			"14:15-15:00": {
+
+				"Pazartesi": "LB1",
+				"Salı": "LB1",
+				"Çarşamba": "LB1",
+				"Perşembe": "LB1",
+				"Cuma": "LB1"
+			},
+			"15:15-16:00": {
+
+				"Pazartesi": "LB1",
+				"Salı": "LB1",
+				"Çarşamba": "LB1",
+				"Perşembe": "LB1",
+				"Cuma": "LB1"
+			},
+			"16:15-17:00": {
+
+				"Pazartesi": "LB1",
+				"Salı": "LB1",
+				"Çarşamba": "LB1",
+				"Perşembe": "LB1",
+				"Cuma": "LB1"
+			},
+			"17:15-18:00": {
+
+				"Pazartesi": "LB1",
+				"Salı": "LB1",
+				"Çarşamba": "LB1",
+				"Perşembe": "LB1",
+				"Cuma": "LB1"
+			}
+		},
+		"2": {
+			"08:30-09:15": {
+
+				"Pazartesi": "LB2",
+				"Salı": "LB2",
+				"Çarşamba": "LB2",
+				"Perşembe": "LB2",
+				"Cuma": "LB2"
+			},
+			"09:30-10:15": {
+
+				"Pazartesi": "LB2",
+				"Salı": "LB2",
+				"Çarşamba": "LB2",
+				"Perşembe": "LB2",
+				"Cuma": "LB2"
+			},
+			"10:30-11:15": {
+
+				"Pazartesi": "LB2",
+				"Salı": "LB2",
+				"Çarşamba": "LB2",
+				"Perşembe": "LB2",
+				"Cuma": "LB2"
+			},
+			"11:30-12:15": {
+
+				"Pazartesi": "LB2",
+				"Salı": "LB2",
+				"Çarşamba": "LB2",
+				"Perşembe": "LB2",
+				"Cuma": "LB2"
+			},
+			"13:15-14:00": {
+
+				"Pazartesi": "LB2",
+				"Salı": "LB2",
+				"Çarşamba": "LB2",
+				"Perşembe": "LB2",
+				"Cuma": "LB2"
+			},
+			"14:15-15:00": {
+
+				"Pazartesi": "LB2",
+				"Salı": "LB2",
+				"Çarşamba": "LB2",
+				"Perşembe": "LB2",
+				"Cuma": "LB2"
+			},
+			"15:15-16:00": {
+
+				"Pazartesi": "LB2",
+				"Salı": "LB2",
+				"Çarşamba": "LB2",
+				"Perşembe": "LB2",
+				"Cuma": "LB2"
+			},
+			"16:15-17:00": {
+
+				"Pazartesi": "LB2",
+				"Salı": "LB2",
+				"Çarşamba": "LB2",
+				"Perşembe": "LB2",
+				"Cuma": "LB2"
+			},
+			"17:15-18:00": {
+
+				"Pazartesi": "LB2",
+				"Salı": "LB2",
+				"Çarşamba": "LB2",
+				"Perşembe": "LB2",
+				"Cuma": "LB2"
+			}
+		},
+		"3": {
+			"08:30-09:15": {
+
+				"Pazartesi": "LB3",
+				"Salı": "LB3",
+				"Çarşamba": "LB3",
+				"Perşembe": "LB3",
+				"Cuma": "LB3"
+			},
+			"09:30-10:15": {
+
+				"Pazartesi": "LB3",
+				"Salı": "LB3",
+				"Çarşamba": "LB3",
+				"Perşembe": "LB3",
+				"Cuma": "LB3"
+			},
+			"10:30-11:15": {
+
+				"Pazartesi": "LB3",
+				"Salı": "LB3",
+				"Çarşamba": "LB3",
+				"Perşembe": "LB3",
+				"Cuma": "LB3"
+			},
+			"11:30-12:15": {
+
+				"Pazartesi": "LB3",
+				"Salı": "LB3",
+				"Çarşamba": "LB3",
+				"Perşembe": "LB3",
+				"Cuma": "LB3"
+			},
+			"13:15-14:00": {
+
+				"Pazartesi": "LB3",
+				"Salı": "LB3",
+				"Çarşamba": "LB3",
+				"Perşembe": "LB3",
+				"Cuma": "LB3"
+			},
+			"14:15-15:00": {
+
+				"Pazartesi": "LB3",
+				"Salı": "LB3",
+				"Çarşamba": "LB3",
+				"Perşembe": "LB3",
+				"Cuma": "LB3"
+			},
+			"15:15-16:00": {
+
+				"Pazartesi": "LB3",
+				"Salı": "LB3",
+				"Çarşamba": "LB3",
+				"Perşembe": "LB3",
+				"Cuma": "LB3"
+			},
+			"16:15-17:00": {
+
+				"Pazartesi": "LB3",
+				"Salı": "LB3",
+				"Çarşamba": "LB3",
+				"Perşembe": "LB3",
+				"Cuma": "LB3"
+			},
+			"17:15-18:00": {
+
+				"Pazartesi": "LB3",
+				"Salı": "LB3",
+				"Çarşamba": "LB3",
+				"Perşembe": "LB3",
+				"Cuma": "LB3"
+			}
+		},
+		"4": {
+			"08:30-09:15": {
+
+				"Pazartesi": "LB4",
+				"Salı": "LB4",
+				"Çarşamba": "LB4",
+				"Perşembe": "LB4",
+				"Cuma": "LB4"
+			},
+			"09:30-10:15": {
+
+				"Pazartesi": "LB4",
+				"Salı": "LB4",
+				"Çarşamba": "LB4",
+				"Perşembe": "LB4",
+				"Cuma": "LB4"
+			},
+			"10:30-11:15": {
+
+				"Pazartesi": "LB4",
+				"Salı": "LB4",
+				"Çarşamba": "LB4",
+				"Perşembe": "LB4",
+				"Cuma": "LB4"
+			},
+			"11:30-12:15": {
+
+				"Pazartesi": "LB4",
+				"Salı": "LB4",
+				"Çarşamba": "LB4",
+				"Perşembe": "LB4",
+				"Cuma": "LB4"
+			},
+			"13:15-14:00": {
+
+				"Pazartesi": "LB4",
+				"Salı": "LB4",
+				"Çarşamba": "LB4",
+				"Perşembe": "LB4",
+				"Cuma": "LB4"
+			},
+			"14:15-15:00": {
+
+				"Pazartesi": "LB4",
+				"Salı": "LB4",
+				"Çarşamba": "LB4",
+				"Perşembe": "LB4",
+				"Cuma": "LB4"
+			},
+			"15:15-16:00": {
+
+				"Pazartesi": "LB4",
+				"Salı": "LB4",
+				"Çarşamba": "LB4",
+				"Perşembe": "LB4",
+				"Cuma": "LB4"
+			},
+			"16:15-17:00": {
+
+				"Pazartesi": "LB4",
+				"Salı": "LB4",
+				"Çarşamba": "LB4",
+				"Perşembe": "LB4",
+				"Cuma": "LB4"
+			},
+			"17:15-18:00": {
+
+				"Pazartesi": "LB4",
+				"Salı": "LB4",
+				"Çarşamba": "LB4",
+				"Perşembe": "LB4",
+				"Cuma": "LB4"
+			}
+		}
+
+	},
+		"Guz": {
+		"1": {
+			"08:30-09:15": {
+
+				"Pazartesi": "LG1",
+				"Salı": "LG1",
+				"Çarşamba": "LG1",
+				"Perşembe": "LG1",
+				"Cuma": "LG1"
+			},
+			"09:30-10:15": {
+
+				"Pazartesi": "LG1",
+				"Salı": "LG1",
+				"Çarşamba": "LG1",
+				"Perşembe": "LG1",
+				"Cuma": "LG1"
+			},
+			"10:30-11:15": {
+
+				"Pazartesi": "LG1",
+				"Salı": "LG1",
+				"Çarşamba": "LG1",
+				"Perşembe": "LG1",
+				"Cuma": "LG1"
+			},
+			"11:30-12:15": {
+
+				"Pazartesi": "LG1",
+				"Salı": "LG1",
+				"Çarşamba": "LG1",
+				"Perşembe": "LG1",
+				"Cuma": "LG1"
+			},
+			"13:15-14:00": {
+
+				"Pazartesi": "LG1",
+				"Salı": "LG1",
+				"Çarşamba": "LG1",
+				"Perşembe": "LG1",
+				"Cuma": "LG1"
+			},
+			"14:15-15:00": {
+
+				"Pazartesi": "LG1",
+				"Salı": "LG1",
+				"Çarşamba": "LG1",
+				"Perşembe": "LG1",
+				"Cuma": "LG1"
+			},
+			"15:15-16:00": {
+
+				"Pazartesi": "LG1",
+				"Salı": "LG1",
+				"Çarşamba": "LG1",
+				"Perşembe": "LG1",
+				"Cuma": "LG1"
+			},
+			"16:15-17:00": {
+
+				"Pazartesi": "LG1",
+				"Salı": "LG1",
+				"Çarşamba": "LG1",
+				"Perşembe": "LG1",
+				"Cuma": "LG1"
+			},
+			"17:15-18:00": {
+
+				"Pazartesi": "LG1",
+				"Salı": "LG1",
+				"Çarşamba": "LG1",
+				"Perşembe": "LG1",
+				"Cuma": "LG1"
+			}
+		},
+		"2": {
+			"08:30-09:15": {
+
+				"Pazartesi": "LG2",
+				"Salı": "LG2",
+				"Çarşamba": "LG2",
+				"Perşembe": "LG2",
+				"Cuma": "LG2"
+			},
+			"09:30-10:15": {
+
+				"Pazartesi": "LG2",
+				"Salı": "LG2",
+				"Çarşamba": "LG2",
+				"Perşembe": "LG2",
+				"Cuma": "LG2"
+			},
+			"10:30-11:15": {
+
+				"Pazartesi": "LG2",
+				"Salı": "LG2",
+				"Çarşamba": "LG2",
+				"Perşembe": "LG2",
+				"Cuma": "LG2"
+			},
+			"11:30-12:15": {
+
+				"Pazartesi": "LG2",
+				"Salı": "LG2",
+				"Çarşamba": "LG2",
+				"Perşembe": "LG2",
+				"Cuma": "LG2"
+			},
+			"13:15-14:00": {
+
+				"Pazartesi": "LG2",
+				"Salı": "LG2",
+				"Çarşamba": "LG2",
+				"Perşembe": "LG2",
+				"Cuma": "LG2"
+			},
+			"14:15-15:00": {
+
+				"Pazartesi": "LG2",
+				"Salı": "LG2",
+				"Çarşamba": "LG2",
+				"Perşembe": "LG2",
+				"Cuma": "LG2"
+			},
+			"15:15-16:00": {
+
+				"Pazartesi": "LG2",
+				"Salı": "LG2",
+				"Çarşamba": "LG2",
+				"Perşembe": "LG2",
+				"Cuma": "LG2"
+			},
+			"16:15-17:00": {
+
+				"Pazartesi": "LG2",
+				"Salı": "LG2",
+				"Çarşamba": "LG2",
+				"Perşembe": "LG2",
+				"Cuma": "LG2"
+			},
+			"17:15-18:00": {
+
+				"Pazartesi": "LG2",
+				"Salı": "LG2",
+				"Çarşamba": "LG2",
+				"Perşembe": "LG2",
+				"Cuma": "LG2"
+			}
+		},
+		"3": {
+			"08:30-09:15": {
+
+				"Pazartesi": "LG3",
+				"Salı": "LG3",
+				"Çarşamba": "LG3",
+				"Perşembe": "LG3",
+				"Cuma": "LG3"
+			},
+			"09:30-10:15": {
+
+				"Pazartesi": "LG3",
+				"Salı": "LG3",
+				"Çarşamba": "LG3",
+				"Perşembe": "LG3",
+				"Cuma": "LG3"
+			},
+			"10:30-11:15": {
+
+				"Pazartesi": "LG3",
+				"Salı": "LG3",
+				"Çarşamba": "LG3",
+				"Perşembe": "LG3",
+				"Cuma": "LG3"
+			},
+			"11:30-12:15": {
+
+				"Pazartesi": "LG3",
+				"Salı": "LG3",
+				"Çarşamba": "LG3",
+				"Perşembe": "LG3",
+				"Cuma": "LG3"
+			},
+			"13:15-14:00": {
+
+				"Pazartesi": "LG3",
+				"Salı": "LG3",
+				"Çarşamba": "LG3",
+				"Perşembe": "LG3",
+				"Cuma": "LG3"
+			},
+			"14:15-15:00": {
+
+				"Pazartesi": "LG3",
+				"Salı": "LG3",
+				"Çarşamba": "LG3",
+				"Perşembe": "LG3",
+				"Cuma": "LG3"
+			},
+			"15:15-16:00": {
+
+				"Pazartesi": "LG3",
+				"Salı": "LG3",
+				"Çarşamba": "LG3",
+				"Perşembe": "LG3",
+				"Cuma": "LG3"
+			},
+			"16:15-17:00": {
+
+				"Pazartesi": "LG3",
+				"Salı": "LG3",
+				"Çarşamba": "LG3",
+				"Perşembe": "LG3",
+				"Cuma": "LG3"
+			},
+			"17:15-18:00": {
+
+				"Pazartesi": "LG3",
+				"Salı": "LG3",
+				"Çarşamba": "LG3",
+				"Perşembe": "LG3",
+				"Cuma": "LG3"
+			}
+		},
+		"4": {
+			"08:30-09:15": {
+
+				"Pazartesi": "LG4",
+				"Salı": "LG4",
+				"Çarşamba": "LG4",
+				"Perşembe": "LG4",
+				"Cuma": "LG4"
+			},
+			"09:30-10:15": {
+
+				"Pazartesi": "LG4",
+				"Salı": "LG4",
+				"Çarşamba": "LG4",
+				"Perşembe": "LG4",
+				"Cuma": "LG4"
+			},
+			"10:30-11:15": {
+
+				"Pazartesi": "LG4",
+				"Salı": "LG4",
+				"Çarşamba": "LG4",
+				"Perşembe": "LG4",
+				"Cuma": "LG4"
+			},
+			"11:30-12:15": {
+
+				"Pazartesi": "LG4",
+				"Salı": "LG4",
+				"Çarşamba": "LG4",
+				"Perşembe": "LG4",
+				"Cuma": "LG4"
+			},
+			"13:15-14:00": {
+
+				"Pazartesi": "LG4",
+				"Salı": "LG4",
+				"Çarşamba": "LG4",
+				"Perşembe": "LG4",
+				"Cuma": "LG4"
+			},
+			"14:15-15:00": {
+
+				"Pazartesi": "LG4",
+				"Salı": "LG4",
+				"Çarşamba": "LG4",
+				"Perşembe": "LG4",
+				"Cuma": "LG4"
+			},
+			"15:15-16:00": {
+
+				"Pazartesi": "LG4",
+				"Salı": "LG4",
+				"Çarşamba": "LG4",
+				"Perşembe": "LG4",
+				"Cuma": "LG4"
+			},
+			"16:15-17:00": {
+
+				"Pazartesi": "LG4",
+				"Salı": "LG4",
+				"Çarşamba": "LG4",
+				"Perşembe": "LG4",
+				"Cuma": "LG4"
+			},
+			"17:15-18:00": {
+
+				"Pazartesi": "LG4",
+				"Salı": "LG4",
+				"Çarşamba": "LG4",
+				"Perşembe": "LG4",
+				"Cuma": "LG4"
+			}
+		}
+
+	}
+
+	},
+	"YuksekLisans": {
+
+		"Bahar": {
+
+			"08:30-09:15": {
+
+				"Pazartesi": "YLB",
+				"Salı": "YLB",
+				"Çarşamba": "YLB",
+				"Perşembe": "YLB",
+				"Cuma": "YLB"
+			},
+			"09:30-10:15": {
+
+				"Pazartesi": "YLB",
+				"Salı": "YLB",
+				"Çarşamba": "YLB",
+				"Perşembe": "YLB",
+				"Cuma": "YLB"
+			},
+			"10:30-11:15": {
+
+				"Pazartesi": "YLB",
+				"Salı": "YLB",
+				"Çarşamba": "YLB",
+				"Perşembe": "YLB",
+				"Cuma": "YLB"
+			},
+			"11:30-12:15": {
+
+				"Pazartesi": "YLB",
+				"Salı": "YLB",
+				"Çarşamba": "YLB",
+				"Perşembe": "YLB",
+				"Cuma": "YLB"
+			},
+			"13:15-14:00": {
+
+				"Pazartesi": "YLB",
+				"Salı": "YLB",
+				"Çarşamba": "YLB",
+				"Perşembe": "YLB",
+				"Cuma": "YLB"
+			},
+			"14:15-15:00": {
+
+				"Pazartesi": "YLB",
+				"Salı": "YLB",
+				"Çarşamba": "YLB",
+				"Perşembe": "YLB",
+				"Cuma": "YLB"
+			},
+			"15:15-16:00": {
+
+				"Pazartesi": "YLB",
+				"Salı": "YLB",
+				"Çarşamba": "YLB",
+				"Perşembe": "YLB",
+				"Cuma": "YLB"
+			},
+			"16:15-17:00": {
+
+				"Pazartesi": "YLB",
+				"Salı": "YLB",
+				"Çarşamba": "YLB",
+				"Perşembe": "YLB",
+				"Cuma": "YLB"
+			},
+			"17:15-18:00": {
+
+				"Pazartesi": "YLB",
+				"Salı": "YLB",
+				"Çarşamba": "YLB",
+				"Perşembe": "YLB",
+				"Cuma": "YLB"
+			}
+		},
+		"Guz": {
+
+			"08:30-09:15": {
+
+				"Pazartesi": "YLG",
+				"Salı": "YLG",
+				"Çarşamba": "YLG",
+				"Perşembe": "YLG",
+				"Cuma": "YLG"
+			},
+			"09:30-10:15": {
+
+				"Pazartesi": "YLG",
+				"Salı": "YLG",
+				"Çarşamba": "YLG",
+				"Perşembe": "YLG",
+				"Cuma": "YLG"
+			},
+			"10:30-11:15": {
+
+				"Pazartesi": "YLG",
+				"Salı": "YLG",
+				"Çarşamba": "YLG",
+				"Perşembe": "YLG",
+				"Cuma": "YLG"
+			},
+			"11:30-12:15": {
+
+				"Pazartesi": "YLG",
+				"Salı": "YLG",
+				"Çarşamba": "YLG",
+				"Perşembe": "YLG",
+				"Cuma": "YLG"
+			},
+			"13:15-14:00": {
+
+				"Pazartesi": "YLG",
+				"Salı": "YLG",
+				"Çarşamba": "YLG",
+				"Perşembe": "YLG",
+				"Cuma": "YLG"
+			},
+			"14:15-15:00": {
+
+				"Pazartesi": "YLG",
+				"Salı": "YLG",
+				"Çarşamba": "YLG",
+				"Perşembe": "YLG",
+				"Cuma": "YLG"
+			},
+			"15:15-16:00": {
+
+				"Pazartesi": "YLG",
+				"Salı": "YLG",
+				"Çarşamba": "YLG",
+				"Perşembe": "YLG",
+				"Cuma": "YLG"
+			},
+			"16:15-17:00": {
+
+				"Pazartesi": "YLG",
+				"Salı": "YLG",
+				"Çarşamba": "YLG",
+				"Perşembe": "YLG",
+				"Cuma": "YLG"
+			},
+			"17:15-18:00": {
+
+				"Pazartesi": "YLG",
+				"Salı": "YLG",
+				"Çarşamba": "YLG",
+				"Perşembe": "YLG",
+				"Cuma": "YLG"
+			}
+		}
+	}
+}

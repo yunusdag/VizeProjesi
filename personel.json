@@ -1,0 +1,164 @@
+{
+	"OgretimUyeleri": [
+
+			{
+				"AdSoyad":"Perry Turner",
+				"Telefon":"(619) 989-1319",
+				"Mail":"perry.turner31@example.com",
+				"Resim": "images/0.jpg"
+			},
+			{
+				"AdSoyad":"Patsy Grant",
+				"Telefon":"(507) 739-9203",
+				"Mail":"patsy.grant67@example.com",
+				"Resim": "images/6.jpg"
+			},
+			{
+				"AdSoyad":"Angel Baker",
+				"Telefon":"(999) 430-0961",
+				"Mail":"angel.baker28@example.com",
+				"Resim": "images/23.jpg"
+			},
+			{
+				"AdSoyad":"Herbert Wade",
+				"Telefon":"(852) 213-1825",
+				"Mail":"herbert.wade51@example.com",
+				"Resim": "images/26.jpg"
+			},
+			{
+				"AdSoyad":"Felicia Flores",
+				"Telefon":"(263) 955-7419",
+				"Mail":"felicia.flores90@example.com",
+				"Resim": "images/37.jpg"
+			},
+			{
+				"AdSoyad":"Peter Washington",
+				"Telefon":"(620) 735-4173",
+				"Mail":"peter.washington93@example.com",
+				"Resim": "images/34.jpg"
+			},
+			{
+				"AdSoyad":"Marilyn Dunn",
+				"Telefon":"(361) 464-8154",
+				"Mail":"marilyn.dunn14@example.com",
+				"Resim": "images/39.jpg"
+			},
+			{
+				"AdSoyad":"Wilma Watts",
+				"Telefon":"(580) 245-1422",
+				"Mail":"wilma.watts70@example.com",
+				"Resim": "images/41.jpg"
+			},
+			{
+				"AdSoyad":"Mia Taylor",
+				"Telefon":"(814) 414-8320",
+				"Mail":"mia.taylor29@example.com",
+				"Resim": "images/53.jpg"
+			},
+			{
+				"AdSoyad":"Fred Johnson",
+				"Telefon":"(548) 289-9805",
+				"Mail":"fred.johnson73@example.com",
+				"Resim": "images/49.jpg"
+			},
+			{
+				"AdSoyad":"Camila Wabbs",
+				"Telefon":"(919) 170-9894",
+				"Mail":"camila.watts69@example.com",
+				"Resim": "images/58.jpg"
+			},
+			{
+				"AdSoyad":"Arron Perry",
+				"Telefon":"(584) 803-0715",
+				"Mail":"arron.perry55@example.com",
+				"Resim": "images/51.jpg"
+			}
+	],
+
+
+
+	"AkademikYardımcı":[
+
+		{
+				"AdSoyad":"Jeff Carlson",
+				"Telefon":"(783) 636-5254",
+				"Mail":"jeff.carlson46@example.com",
+				"Resim": "images/67.jpg"
+			},
+			{
+				"AdSoyad":"Elizabeth McKinney",
+				"Telefon":"(577) 850-6280",
+				"Mail":"elizabeth.mckinney39@example.com",
+				"Resim": "images/72.jpg"
+			},
+			{
+				"AdSoyad":"Meghan Thompson",
+				"Telefon":"(492) 210-2889",
+				"Mail":"meghan.thompson31@example.com",
+				"Resim": "images/76.jpg"
+			},
+			{
+				"AdSoyad":"Christopher Porter",
+				"Telefon":"(990) 153-5489",
+				"Mail":"christopher.porter50@example.com",
+				"Resim": "images/78.jpg"
+			},
+			{
+				"AdSoyad":"Jamie Wallace",
+				"Telefon":"(121) 703-5979",
+				"Mail":"jamie.wallace24@example.com",
+				"Resim": "images/75.jpg"
+			},
+			{
+				"AdSoyad":"Terry Fields",
+				"Telefon":"(693) 446-8853",
+				"Mail":"terry.fields93@example.com",
+				"Resim": "images/69.jpg"
+			}
+			
+	],
+
+
+	"İdariTeknik":[
+
+
+		{
+				"AdSoyad":"Leona Jensen",
+				"Telefon":"(918) 501-2149",
+				"Mail":"leona.jensen26@example.com",
+				"Resim": "images/81.jpg"
+			},
+			{
+				"AdSoyad":"Ronald Roberts",
+				"Telefon":"(334) 845-8903",
+				"Mail":"ronald.roberts18@example.com",
+				"Resim": "images/5.jpg"
+			},
+			{
+				"AdSoyad":"John Davidson",
+				"Telefon":"(571) 102-8200",
+				"Mail":"john.davidson31@example.com",
+				"Resim": "images/85.jpg"
+			},
+			{
+				"AdSoyad":"Soham Elliott",
+				"Telefon":"(172) 427-5066",
+				"Mail":"soham.elliott66@example.com",
+				"Resim": "images/83.jpg"
+			},
+			{
+				"AdSoyad":"Cameron Henry",
+				"Telefon":"(123) 456-7890",
+				"Mail":"cameron.henry82@example.com",
+				"Resim": "images/88.jpg"
+			},
+			{
+				"AdSoyad":"Bertha Garrett",
+				"Telefon":"(498) 594-4533",
+				"Mail":"bertha.garrett89@example.com",
+				"Resim": "images/76.jpg"
+			}
+
+	]
+
+}
